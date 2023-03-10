@@ -1,0 +1,15 @@
+/Users/aaronomale/Projects/introAppSolution/introApp/bin/Debug/net7.0/introApp
+/Users/aaronomale/Projects/introAppSolution/introApp/bin/Debug/net7.0/introApp.deps.json
+/Users/aaronomale/Projects/introAppSolution/introApp/bin/Debug/net7.0/introApp.runtimeconfig.json
+/Users/aaronomale/Projects/introAppSolution/introApp/bin/Debug/net7.0/introApp.dll
+/Users/aaronomale/Projects/introAppSolution/introApp/bin/Debug/net7.0/introApp.pdb
+/Users/aaronomale/Projects/introAppSolution/introApp/obj/Debug/net7.0/introApp.csproj.AssemblyReference.cache
+/Users/aaronomale/Projects/introAppSolution/introApp/obj/Debug/net7.0/introApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaronomale/Projects/introAppSolution/introApp/obj/Debug/net7.0/introApp.AssemblyInfoInputs.cache
+/Users/aaronomale/Projects/introAppSolution/introApp/obj/Debug/net7.0/introApp.AssemblyInfo.cs
+/Users/aaronomale/Projects/introAppSolution/introApp/obj/Debug/net7.0/introApp.csproj.CoreCompileInputs.cache
+/Users/aaronomale/Projects/introAppSolution/introApp/obj/Debug/net7.0/introApp.dll
+/Users/aaronomale/Projects/introAppSolution/introApp/obj/Debug/net7.0/refint/introApp.dll
+/Users/aaronomale/Projects/introAppSolution/introApp/obj/Debug/net7.0/introApp.pdb
+/Users/aaronomale/Projects/introAppSolution/introApp/obj/Debug/net7.0/introApp.genruntimeconfig.cache
+/Users/aaronomale/Projects/introAppSolution/introApp/obj/Debug/net7.0/ref/introApp.dll
